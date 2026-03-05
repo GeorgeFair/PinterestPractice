@@ -21,3 +21,23 @@
     top: 200px;
     left: 320px;
 }
+
+.pin.running {
+    top: 200px;
+    left: 620px;
+}
+
+.pin.warhammer {
+    top: 200px;
+    left: 920px;
+}
+
+.pin.weightlifting {
+    top: 200px;
+    left: 1220px;
+}
+
+
+.pin img {
+    width: 100%;
+}
