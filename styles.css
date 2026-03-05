@@ -10,3 +10,14 @@
     background-size: cover;
     position: absolute;
 }
+
+.pin.dj {
+    top: 200px;
+    left: 20px;
+}
+
+
+.pin.minecraft {
+    top: 200px;
+    left: 320px;
+}
